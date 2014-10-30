@@ -2,6 +2,7 @@
   "name": "montage-chartjs",
   "version": "0.1.0",
   "dependencies": {
+    "chart.js": "git://github.com/nnnick/Chart.js",
     "digit": "~0.5.0",
     "montage": "~0.14.0",
     "montage-moment": "git://github.com/Sophiacom/montage-moment"
