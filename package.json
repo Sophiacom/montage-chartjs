@@ -16,5 +16,12 @@
   ],
   "bundle": [
     "ui/main.reel"
-  ]
+  ],
+  "readme": "montage-chartjs\n===============\n\nChart.js adaptation for montagejs\n",
+  "readmeFilename": "README.md",
+  "description": "montage-chartjs ===============",
+  "_id": "montage-chartjs@0.1.0",
+  "_shasum": "37a51cbefb70402c9a168bbb3453f67c6992ea57",
+  "_resolved": "git://github.com/Sophiacom/montage-chartjs#d9df699f8d7e3153ca5f500f851325749e2a3d73",
+  "_from": "git://github.com/Sophiacom/montage-chartjs"
 }

@@ -4,6 +4,9 @@
  */
 var Component = require("montage/ui/component").Component;
 var Moment = require("montage-moment").Moment;
+
+var Chart = require("chart.js/Chart.min");
+
 /**
  * @class LineChart
  * @extends Component
